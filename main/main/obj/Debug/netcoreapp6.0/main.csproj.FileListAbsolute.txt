@@ -1,0 +1,14 @@
+D:\Schoolin\#CSDataBaseStructures\main\main\bin\Debug\netcoreapp6.0\main.exe
+D:\Schoolin\#CSDataBaseStructures\main\main\bin\Debug\netcoreapp6.0\main.deps.json
+D:\Schoolin\#CSDataBaseStructures\main\main\bin\Debug\netcoreapp6.0\main.runtimeconfig.json
+D:\Schoolin\#CSDataBaseStructures\main\main\bin\Debug\netcoreapp6.0\main.dll
+D:\Schoolin\#CSDataBaseStructures\main\main\bin\Debug\netcoreapp6.0\main.pdb
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\main.AssemblyInfoInputs.cache
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\main.AssemblyInfo.cs
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\main.csproj.CoreCompileInputs.cache
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\main.dll
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\refint\main.dll
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\main.pdb
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\main.genruntimeconfig.cache
+D:\Schoolin\#CSDataBaseStructures\main\main\obj\Debug\netcoreapp6.0\ref\main.dll

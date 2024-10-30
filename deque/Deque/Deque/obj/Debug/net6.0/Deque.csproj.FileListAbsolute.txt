@@ -1,0 +1,14 @@
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\Deque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\Deque.AssemblyInfoInputs.cache
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\Deque.AssemblyInfo.cs
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\Deque.csproj.CoreCompileInputs.cache
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\bin\Debug\net6.0\Deque.exe
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\bin\Debug\net6.0\Deque.deps.json
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\bin\Debug\net6.0\Deque.runtimeconfig.json
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\bin\Debug\net6.0\Deque.dll
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\bin\Debug\net6.0\Deque.pdb
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\Deque.dll
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\refint\Deque.dll
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\Deque.pdb
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\Deque.genruntimeconfig.cache
+D:\Schoolin\#CSDataBaseStructures\deque\Deque\Deque\obj\Debug\net6.0\ref\Deque.dll
